@@ -85,7 +85,7 @@ button.deleteButton{
     margin-left: 10px;
 }
 button.deleteButton:hover {
-    background-color: yellow;
+    background-color: green;
 }
 
 body {
